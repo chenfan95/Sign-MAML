@@ -13,8 +13,11 @@ pip install learn2learn
 # Run the code
 bash jobs.sh
 
-# Citation
 
+## Reference
+
+If you find this work helpful, consider citing it. 
+```
 @article{sehwag2020hydra,
   title={Hydra: Pruning adversarially robust neural networks},
   author={Sehwag, Vikash and Wang, Shiqi and Mittal, Prateek and Jana, Suman},
