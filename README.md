@@ -14,11 +14,9 @@ pip install learn2learn
 bash jobs.sh
 
 # Citation
-@misc{fan2021signmaml,
+@article{fan2021signmaml,
       title={Sign-MAML: Efficient Model-Agnostic Meta-Learning by SignSGD}, 
       author={Chen Fan and Parikshit Ram and Sijia Liu},
+      journal={5th Workshop on Meta-Learning at NeurIPS 2021,},
       year={2021},
-      eprint={2109.07497},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
 }
