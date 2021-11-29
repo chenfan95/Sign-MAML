@@ -3,8 +3,11 @@ This repo is the code for [Sign-MAML: Efficient Model-Agnostic Meta-Learning by 
 
 # Requirements
 Python >= 3.6
+
 Pytorch >= 1.8
+
 Torchvision >= 0.9
+
 pip install learn2learn
 
 # Run the code
