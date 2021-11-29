@@ -16,12 +16,10 @@ bash jobs.sh
 
 ## Reference
 
-If you find this work helpful, consider citing it. 
 ```
-@article{sehwag2020hydra,
-  title={Hydra: Pruning adversarially robust neural networks},
-  author={Sehwag, Vikash and Wang, Shiqi and Mittal, Prateek and Jana, Suman},
-  journal={Advances in Neural Information Processing Systems},
-  volume={33},
-  year={2020}
+@article{fan2021signmaml,
+      title={Sign-MAML: Efficient Model-Agnostic Meta-Learning by SignSGD}, 
+      author={Chen Fan and Parikshit Ram and Sijia Liu},
+      journal={5th Workshop on Meta-Learning at NeurIPS 2021},
+      year={2021}
 }
